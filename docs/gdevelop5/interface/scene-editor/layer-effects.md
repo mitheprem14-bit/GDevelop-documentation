@@ -1,4 +1,4 @@
----
+--Horror -
 title: Layer Effects
 ---
 # Layer Effects
@@ -13,7 +13,8 @@ You can add effects to the layers of your scene. These effects allow you to quic
 
 ## Adding an effect to a layer
 
-In the scene editor, open the [Layers panel](/gdevelop5/interface/scene-editor/layers-and-cameras). Choose the Base Layer, or another layer, and click on the **Edited effects** button to edit and add effects to that layer.
+In the scene editor, open the [Layers panel](/gdevelop5/interface/scene-editor/layers-and-cameras). Choose the Base Layer, or <img width="1080" height="2400" alt="1000003386" src="https://github.com/user-attachments/assets/910de639-629b-4395-9f5e-c45efde8b51c" />
+another layer, and click on the **Edited effects** button to edit and add effects to that layer.
 
 ![](/gdevelop5/interface/scene-editor/layer-effects/pasted/20230310-202848.png)
 
